@@ -1,2 +1,1 @@
 # DALI-examples
-NVIDIA DALI
